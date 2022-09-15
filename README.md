@@ -1,6 +1,6 @@
 <h1 align="center">Hello There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Daniel Peixoto</h1>
 
-<img src="giphy.webp" height="350px" align="right"/>
+<img src="giphy.webp" height="300px" align="right"/>
 
 - 🌱 I’m currently learning **C++, TypeScript**<br><br>
 - 💬 Ask me about **JavaScript, React.js, HTML, CSS, SQL, Node.JS, Python**<br><br>
