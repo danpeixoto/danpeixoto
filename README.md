@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Emacs, AWS, nodejs streams**<br><br>
 - 💬 Ask me about **JavaScript, React.js, HTML, CSS, SQL, Node.JS, Python**<br><br>
-- 📫 How to reach me **contato@dpps.com.br**<br><br>
 - 📄 Know about my experiences [https://www.linkedin.com/in/dpps/](https://www.linkedin.com/in/dpps/)<br><br>
 - ⚡ Fun fact **: I thought that JavaScript and Java were the same thing**
 
