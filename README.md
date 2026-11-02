@@ -34,7 +34,7 @@ I have experience working with JavaScript, TypeScript, Java, Python, React, Post
 
 ## Professional Experience
 
-### BTP Factual
+### BTG Pactual
 Backend Software Engineer • 2023 — Present
 
 - Developed and evolved backend systems for financial products and transaction flows.
@@ -43,7 +43,7 @@ Backend Software Engineer • 2023 — Present
 - Improved reliability, scalability, and maintainability through architecture and code improvements.
 - Contributed to event-driven integrations and asynchronous processing systems in high-demand environments.
 
-### BTP Factual
+### BTG Pactual
 IT Assistant • 2022 — 2023
 
 - Supported internal systems and automation for operational workflows.
